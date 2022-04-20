@@ -37,7 +37,7 @@ You will be able to toggle features within UAC by using the toggle command
 - No ticking areas
 - Simple and easy to use 
 
-Features (Toggleabled)
+## Commands
 
 Item Commands
 When enabled, will allow players to use commands via dropping items.
