@@ -19,7 +19,7 @@
   
 ## Deployment
 
-To get started with applying UAC to your realm, you'll first want to make a local world. Make sure this world has all experimental features enabled as well as cheats enabled as well. After you spawn in you may save & quit. Now, you'll replace the world on your realm with this world. This is to make sure that everything in UAC works properly on the realm. For access to Github and early updates, as well as the ability to report bugs, please join the discord!! https://discord.gg/7Us7ER8WUw
+To get started with applying UAC to your realm, you'll first want to make a local world. Make sure this world has all experimental features enabled as well as cheats enabled as well. After you spawn in you may save & quit. Now, you'll replace the world on your realm with this world. This is to make sure that everything in UAC works properly on the realm. For access to Github and early updates, as well as the ability to report bugs, please join the [discord](https://discord.gg/7Us7ER8WUw)
 
 When you join you'll be welcomed with a few messages along with being prompted on what the help command is. By performing the help command while having staff access, you'll see this message.
 
